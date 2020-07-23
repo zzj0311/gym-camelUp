@@ -14,3 +14,7 @@ This env supposed to work exactly as the original boardgame, for two-player game
 cd gym-camelUp
 pip install -e . // just follow the official, not tested.
 ```
+
+## step in material
+
+* [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/user/introduction.html)
