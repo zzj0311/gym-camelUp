@@ -2,7 +2,7 @@
 
 The camel up env aims to enumerate the broad game [camel up!](https://boardgamegeek.com/boardgame/153938/camel), which is a balanced, turn based, multiagent domain, with only limited unknown infomation.
 
-To get started, check [openAI gym](https://github.com/openai/gy)
+To get started, check [openAI gym](https://github.com/openai/gym)
 
 ## camelup env
 
@@ -11,6 +11,6 @@ This env supposed to work exactly as the original boardgame, for two-player game
 ## Installation
 
 ```
-cd gym-soccer
+cd gym-camelUp
 pip install -e . // just follow the official, not tested.
 ```
