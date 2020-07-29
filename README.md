@@ -18,3 +18,4 @@ pip install -e . // just follow the official, not tested.
 ## step in material
 
 * [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/user/introduction.html)
+* [A Simple AlphaZero tutorial](http://web.stanford.edu/~surag/posts/alphazero.html)
